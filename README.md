@@ -8,7 +8,7 @@ For many incumbent operators, retaining high profitable customers is the number 
 
  
 
-To reduce customer churn, telecom companies need to predict which customers are at high risk of churn.
+To reduce customer churn, telecom companies need to predict which customers are at high risk of churn and take decision accordingly.
 
  
 
